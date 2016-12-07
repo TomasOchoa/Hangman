@@ -50,9 +50,18 @@ My implementation of a hangman game.
             - Player has the option to see a hint once per game
             - **NOTE**:
                 - Should the hint be a free letter given to the player or should it be something like 'contains 3 vowels'?
+    - [ ] Figure out what animations to use and how to implement them.
+        - [Paper.js](http://paperjs.org/)?
+        - [Animate.css](https://daneden.github.io/animate.css/)?
+        - [Bounce.js](http://bouncejs.com/)?
+        - [Magic Animations CSS3](https://www.minimamente.com/example/magic_animations/)?
+        - [DynCSS](http://www.vittoriozaccaria.net/dyn-css/#what-is-it)?
+        - [CSShake](http://elrumordelaluz.github.io/csshake/#1)?
+        - [Hover.css](http://ianlunn.github.io/Hover/)?
+        - [Velocity.js](http://velocityjs.org/)?
+        - [AniJS](http://anijs.github.io/)?
 
 ### Back-end/Functionality
-
 - [ ] Figure out where to get words from
     - API?
         - Are there any APIs or libraries that get random words?
